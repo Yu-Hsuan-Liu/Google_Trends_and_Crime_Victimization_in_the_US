@@ -1,0 +1,4 @@
+# Big-Data-in-Crime-Statistics-Using-Google-Trends-as-Crime-Estimates-to-Measure-Victimization
+This repository contains the code related to our article titled 'Big data in crime statistics: Using Google Trends to measure victimization in designated market areas across the United States.' Within this repository, you'll find a Python script that outlines our methodology for extracting crime estimates from Google Trends data. Additionally, we've included an R script that details our data analysis strategy, along with the tables and figures that were generated from our analysis.
+
+Liu, Y.-H., Wolff, K. T., & Lo, T.-Y. (2023). Big data in crime statistics: Using Google Trends to measure victimization in designated market areas across the United States. Methodological Innovations, 0(0). https://doi.org/10.1177/20597991231183962
